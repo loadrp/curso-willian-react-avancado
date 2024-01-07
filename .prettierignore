@@ -1,0 +1,6 @@
+!.storybook
+!.jest
+build
+covarage
+.next
+.node_modules
